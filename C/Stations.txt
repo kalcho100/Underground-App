@@ -1,0 +1,267 @@
+Elephant & Castle,4
+Lambeth North,1
+Waterloo,9
+Embankment,11
+Charing Cross,6
+Piccadilly Circus,4
+Oxford Circus,10
+Regent's Park,1
+Baker Street,9
+Marylebone,1
+Edgware Road,7
+Paddington,7
+Warwick Avenue,1
+Maida Vale,1
+Kilburn Park,1
+Queen's Park,1
+Kensal Green,1
+Willesden Junction,1
+Harlesden,1
+Stonebridge Park,1
+Wembley Central,1
+North Wembley,1
+South Kenton,1
+Kenton,1
+Harrow & Wealdstone,1
+West Ruislip,3
+Ruislip Gardens,3
+South Ruislip,3
+Northolt,3
+Greenford,3
+Perivale,3
+Hanger Lane,3
+North Acton,7
+East Acton,7
+White City,7
+Shepherd's Bush,8
+Holland Park,7
+Notting Hill Gate,12
+Queensway,7
+Lancaster Gate,7
+Marble Arch,7
+Bond Street,9
+Tottenham Court Road,12
+Holborn,10
+Chancery Lane,7
+St.Paul's,7
+Bank,11
+Liverpool Street,13
+Bethnal Green,7
+Mile End,12
+Stratford,9
+Leyton,7
+Leytonstone,7
+Snaresbrook,4
+South Woodford,4
+Woodford,4
+Buckhurst Hill,3
+Loughton,3
+Debden,2
+Theydon Bois,2
+Epping,2
+Roding Valley,1
+Chigwell,1
+Grange Hill,1
+Hainault,4
+Wanstead,3
+Redbridge,3
+Gants Hill,3
+Newbury Park,3
+Barkingside,3
+Fairlop,3
+Ealing Broadway,6
+West Acton,4
+Hammersmith,8
+Goldhawk Road,1
+Wood Lane,1
+Latimer Road,1
+Ladbroke Grove,1
+Westbourne Park,1
+Royal Oak,1
+Great Portland Street,6
+Euston Square,6
+King's Cross,14
+Farringdon,6
+Barbican,6
+Moorgate,9
+Aldgate East,5
+Whitechapel,5
+Stepney Green,5
+Bow Road,5
+Bromley-by-Bow,5
+West Ham,7
+Plaistow,5
+Upton Park,5
+East Ham,5
+Barking,5
+Aldgate,5
+Tower Hill,5
+Monument,5
+Cannon Street,5
+Mansion House,5
+Blackfriars,5
+Temple,5
+Westminster,7
+St.James's Park,1
+Victoria,7
+Sloane Square,5
+South Kensington,8
+Gloucester Road,8
+High Street Kensington,6
+Bayswater,5
+District,Ealing Broadway - Upminster,day,1
+Ealing Common,3
+Acton Town,5
+Chiswick Park,2
+Turnham Green,7
+Stamford Brook,4
+Ravenscourt Park,4
+Barons Court,7
+West Kensington,4
+Earl's Court,11
+St. James's Park,4
+Upney,4
+Becontree,4
+Dagenham Heathway,4
+Dagenham East,4
+Elm Park,4
+Hornchurch,4
+Upminster Bridge,4
+Upminster,4
+Kensington,2
+Richmond,2
+Kew Gardens,2
+Gunnersbury,2
+Wimbledon,2
+Wimbledon Park,2
+Southfields,2
+East Putney,2
+Putney Bridge,2
+Parsons Green,2
+Fulham Broadway,2
+West Brompton,2
+Stanmore,2
+Canons Park,2
+Queensbury,2
+Kingsbury,2
+Wembley Park,6
+Neasden,2
+Dollis Hill,2
+Willesden Green,3
+Kilburn,2
+West Hampstead,2
+Finchley Road,6
+Swiss Cottage,2
+St John's Wood,2
+Green Park,7
+Southwark,2
+London Bridge,5
+Bermondsey,2
+Canada Water,2
+Canary Wharf,2
+North Greenwich,2
+Canning Town,2
+Amersham,1
+Chalfont & Latimer,3
+Chorleywood,3
+Rickmansworth,3
+Moor Park,3
+Northwood,3
+Northwood Hills,3
+Pinner,3
+North Harrow,3
+Harrow-on-the-hill,4
+Northwick Park,4
+Preston Road,4
+Chesham,2
+Croxley,2
+Watford,2
+Uxbridge,2
+Hillingdon,2
+Ickenham,2
+Ruislip,2
+Ruislip Manor,2
+Eastcote,2
+Rayners Lane,2
+West Harrow,1
+Morden,8
+South Wimbledon,8
+Colliers Wood,8
+Tooting Broadway,8
+Tooting Bec,8
+Balham,8
+Clapham South,8
+Clapham Common,8
+Clapham North,8
+Stockwell,10
+Oval,8
+Kennington,8
+Borough,3
+Old Street,3
+Angel,3
+Euston,10
+Camden Town,8
+Chalk Farm,3
+Belsize Park,3
+Hampstead,3
+Golders Green,3
+Brent Cross,3
+Hendon Central,3
+Colindale,3
+Burnt Oak,3
+Edgeware,3
+Kentish Town,5
+Tufnell Park,5
+Archway,5
+Highgate,5
+East Finchley,5
+Finchley Central,5
+Mill Hill East,3
+West Finchley,3
+Woodside Park,3
+Totteridge & Whetstone,3
+High Barnet,3
+Leicester Square,8
+Goodge Street,5
+Warren Street,7
+Mornington Crescent,5
+Cockfosters,3
+Oakwood,3
+Southgate,3
+Arnos Grove,3
+Bounds Green,3
+Wood Green,3
+Turnpike Lane,3
+Manor House,3
+Finsbury Park,5
+Arsenal,3
+Holloway Road,3
+Caledonian Road,3
+Russell Square,3
+Covent Garden,3
+Hyde Park Corner,3
+Knightsbridge,3
+South Ealing,2
+Northfields,2
+Boston Manor,2
+Osterley,2
+Hounslow East,2
+Hounslow Central,2
+Hounslow West,2
+Hatton Cross,2
+Heathrow Terminals 2 & 3,2
+Heathrow Terminal 5,2
+North Ealing,1
+Park Royal,1
+Alperton,1
+Sudbury Town,1
+Sudbury Hill,1
+South Harrow,1
+Brixton,2
+Vauxhall,2
+Pimlico,2
+Highbury & Islington,2
+Seven Sisters,2
+Tottenham Hale,2
+Blackhorse Road,2
+Walthamstow Central,2
